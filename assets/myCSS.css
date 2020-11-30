@@ -1,0 +1,121 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.container{
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+nav {
+    display: flex;
+    display: block;
+    font-size: large;
+}
+
+
+.logo{
+    font-size: larger;
+}
+
+.col-sm-5{
+    margin-top: 30px;
+}
+.introduction{
+    color: rgba(0,0,0,0.62);
+    height: 677px;
+    min-height: 822px;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    justify-content: center;
+    
+}
+.introduction .text{
+    
+    padding: 0;
+    max-width: 640px;
+    color: #fff;
+    z-index: 2;
+    padding: 0px 15px;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.15);
+    font-family: Montserrat,sans-serif;
+}
+.introduction p{
+    font-size: 20px;
+}
+.features{
+    background-color: #eef4f7;
+}
+.contain{
+   
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+   
+
+}
+.box{
+    text-align: center;
+    padding: 30px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+.aboutus{
+    padding-top: 55px;
+    padding-bottom: 150px;
+}
+.foot{
+    background-color: beige;
+}
+.block{
+    text-align: center;
+    max-width: 640px;
+    margin: auto;
+    opacity: .7;
+}
+
+.form{
+    text-align: left;
+    background-color: #fff;
+    max-width: 640px;
+    margin: auto;
+    padding:10px;
+
+}
+.contact{
+    padding-bottom: 200px;
+}
+.aboutus-page{
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+.products{
+    font-size: 15px;    
+    margin: auto;
+}
+.product-bg{
+    background-color: #ffffff;
+}
+.row-no{
+    display: flex; 
+    flex-wrap: wrap;
+    
+}
+.nav-page
+{
+    display: inline-block;
+}
+.nav-page ul{
+    float: left;
+}
+.product-item img{
+    width: 200px;
+    height: 200px;
+}
